@@ -4,6 +4,9 @@
 
 > Inspired By Grammarly
 
+Forked from
+https://github.com/SOL1archive/KoGrammar
+
 This project is ongoing.
 
 Please keep in mind that the licenses applied to codes and model parameters are **different**.
